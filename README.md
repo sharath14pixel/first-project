@@ -1,2 +1,3 @@
 # first-project
-this is mine
+this is my first project
+author- sharat
